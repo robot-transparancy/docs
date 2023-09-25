@@ -2,13 +2,13 @@
 
 Summary for the preliminary experiments on robot transparancy.
 
-## Collection of Repositories with the Code and Data
+## GitHub
 
-* <https://github.com/robot-transparancy/robot-transparancy.github.io.git>
+* <https://github.com/robot-transparancy>
 
 ## POSH Behavior for Pepper Robot
 
-The code and the corresponding documentation used for the experimental study can be found here:
+The code and the corresponding documentation used for the recent experimental studies can be found here:
 * <https://github.com/mellmann/pepper-bod-app/tree/poshlib>
 
 
