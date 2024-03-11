@@ -8,6 +8,11 @@ Transparency is recognized as a vital feature for understanding and predicting r
 
 {% include youtube.html id="I4dYeo98KQ4" %}
 
+### Read the full paper
+> Heinrich Mellmann, Polina Arbuzova, Dimosthenis Kontogiorgos, Magdalena Yordanova, Jennifer X. Haensel, Verena V. Hafner, and Joanna J. Bryson. 2024. Effects of Transparency in Humanoid Robots - A Pilot Study. In Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI '24). 
+Association for Computing Machinery, New York, NY, USA, 750–754. 
+https://doi.org/10.1145/3610978.3640613
+
 ## GitHub
 
 * <https://github.com/robot-transparency>
