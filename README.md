@@ -1,6 +1,6 @@
-# Documentation for Expetiments in Robot-Transparancy
+# Documentation for Experiments in Robot-Transparancy
 
-Summary for the preliminary experiments on robot transparancy.
+Summary for the preliminary experiments on robot transparency.
 
 ## Effects of Transparency in Humanoid Robots - A Pilot Study.
 
@@ -22,7 +22,7 @@ https://doi.org/10.1145/3610978.3640613
 The code and the corresponding documentation used for the recent experimental studies can be found here:
 * <https://github.com/mellmann/pepper-bod-app/tree/poshlib>
 
-## External Ressources
+## External Resources
 
 * <http://www.cs.bath.ac.uk/ai/AmonI-sw.html>
 
